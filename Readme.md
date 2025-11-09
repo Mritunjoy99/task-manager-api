@@ -620,7 +620,7 @@ Contributions are welcome! Please follow these guidelines[web:31][web:35]:
 If you encounter any issues or have questions:
 
 - **Open an Issue**: [GitHub Issues](https://github.com/Mritunjoy99/task-manager-api/issues)
-- **Email**: support@example.com
+- **Email**: mkr9142@gmail.com
 - **Documentation**: Check `/docs` endpoint for API reference
 
 ## 🗺️ Roadmap
