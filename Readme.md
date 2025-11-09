@@ -601,12 +601,12 @@ Contributions are welcome! Please follow these guidelines[web:31][web:35]:
 - Ensure all tests pass before submitting PR
 
 
-## 👨‍💻 Author
+##  Author
 
 **Mritunjoy Kumar Yadav**
 
 - GitHub: [@Mritunjoy99](https://github.com/Mritunjoy99)
-- Email: your.email@example.com
+- Email: mkr9142@gmail.com
 
 ## 🙏 Acknowledgments
 
